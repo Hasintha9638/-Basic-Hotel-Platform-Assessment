@@ -33,7 +33,7 @@ Full-stack hotel management application for internal staff to manage hotels, roo
 - **Routing:** React Router DOM v6
 - **State Management:** React Query (TanStack Query)
 - **HTTP Client:** Axios with interceptors
-- **Styling:** Inline styles
+- **Styling:** CSS styles
 
 ---
 
