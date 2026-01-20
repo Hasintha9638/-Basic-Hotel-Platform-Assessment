@@ -681,13 +681,6 @@ This is an assignment project for educational purposes.
 
 ---
 
-## 👤 Author
-
-**Assignment Submission**  
-**Date:** January 2025  
-**Version:** 1.0.0  
-**Status:** Complete ✅
-
 ---
 
 ## 🙏 Acknowledgments
